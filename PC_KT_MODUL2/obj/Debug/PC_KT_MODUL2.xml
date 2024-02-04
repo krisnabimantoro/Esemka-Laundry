@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PC_KT_MODUL2
+</name>
+</assembly>
+<members>
+<member name="T:PC_KT_MODUL2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PC_KT_MODUL2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PC_KT_MODUL2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.DetailDepositDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.EmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.HeaderDepositDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.JobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.PackageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.PrepaidPackageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.ServiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.UnitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.DetailDepositRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.EmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.HeaderDepositRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.JobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.PackageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.PrepaidPackageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.ServiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.UnitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.DetailDepositRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.EmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.HeaderDepositRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.JobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.PackageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.PrepaidPackageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.ServiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSet.UnitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.DetailDepositTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.EmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.HeaderDepositTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.JobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.PackageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.PrepaidPackageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.ServiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.UnitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PC_KT_MODUL2.PC_KT_MODUL02DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PC_KT_MODUL2.PC_KT_MODUL02DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PC_KT_MODUL2.PC_KT_MODUL02DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager.UpdateAll(PC_KT_MODUL2.PC_KT_MODUL02DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PC_KT_MODUL2.PC_KT_MODUL02DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
